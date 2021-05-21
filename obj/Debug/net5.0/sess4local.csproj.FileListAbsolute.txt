@@ -1,0 +1,16 @@
+C:\Users\Mr.IT\Desktop\sess4local\bin\Debug\net5.0\sess4local.exe
+C:\Users\Mr.IT\Desktop\sess4local\bin\Debug\net5.0\sess4local.deps.json
+C:\Users\Mr.IT\Desktop\sess4local\bin\Debug\net5.0\sess4local.runtimeconfig.json
+C:\Users\Mr.IT\Desktop\sess4local\bin\Debug\net5.0\sess4local.runtimeconfig.dev.json
+C:\Users\Mr.IT\Desktop\sess4local\bin\Debug\net5.0\sess4local.dll
+C:\Users\Mr.IT\Desktop\sess4local\bin\Debug\net5.0\ref\sess4local.dll
+C:\Users\Mr.IT\Desktop\sess4local\bin\Debug\net5.0\sess4local.pdb
+C:\Users\Mr.IT\Desktop\sess4local\obj\Debug\net5.0\sess4local.csprojAssemblyReference.cache
+C:\Users\Mr.IT\Desktop\sess4local\obj\Debug\net5.0\sess4local.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.IT\Desktop\sess4local\obj\Debug\net5.0\sess4local.AssemblyInfoInputs.cache
+C:\Users\Mr.IT\Desktop\sess4local\obj\Debug\net5.0\sess4local.AssemblyInfo.cs
+C:\Users\Mr.IT\Desktop\sess4local\obj\Debug\net5.0\sess4local.csproj.CoreCompileInputs.cache
+C:\Users\Mr.IT\Desktop\sess4local\obj\Debug\net5.0\sess4local.dll
+C:\Users\Mr.IT\Desktop\sess4local\obj\Debug\net5.0\ref\sess4local.dll
+C:\Users\Mr.IT\Desktop\sess4local\obj\Debug\net5.0\sess4local.pdb
+C:\Users\Mr.IT\Desktop\sess4local\obj\Debug\net5.0\sess4local.genruntimeconfig.cache
